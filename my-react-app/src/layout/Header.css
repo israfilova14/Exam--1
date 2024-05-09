@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav{
+    ul{
+        display: flex;
+        flex-direction: row;
+        gap: 15px;
+    }
+    ul{
+        li{
+            list-style: none;
+        }
+    }
+}
+
+.colorshop-logo{
+    width: 240px;
+}

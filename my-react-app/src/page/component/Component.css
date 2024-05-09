@@ -1,0 +1,35 @@
+.background-4{
+    width: auto;
+    height: 600px;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.component{
+  background-color: rgb(242, 242, 242);
+  display: flex;
+  align-items: center;
+  gap: 200px;
+}
+
+.timingBox{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.time-title{
+    font-size: 50px;
+}
+
+h1{
+    font-size: 40px;
+    color: #fe4c50;
+}
+
+.shopButton{
+    padding: 12px 28px;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+}

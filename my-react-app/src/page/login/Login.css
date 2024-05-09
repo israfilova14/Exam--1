@@ -1,0 +1,65 @@
+.register{
+    color: #F08080;
+    text-align: center;
+    padding: 10px;
+}
+
+.loginPage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    
+}
+.formBox{
+    border: 1px solid #F08080;
+    padding: 40px;
+    border-radius: 12px;
+    margin-bottom: 60px;
+}
+
+.loginCard{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+
+.inputHolder{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    padding: 10px;
+    font-size: 17px;
+    color: #F08080;
+}
+
+input{
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+}
+
+input::placeholder{
+    font-size: 14px;
+}
+
+.buttonBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.loginButton{
+    background-color: #F08080;
+    color: white;
+    padding: 12px 60px;
+    border: none;
+    border-radius: 15px;
+    font-size: 16px;
+    cursor: pointer;
+}

@@ -1,0 +1,20 @@
+.products-title{
+    text-align: center;
+    color: #F08080;
+    padding: 24px;
+}
+
+.deletebtn{
+    background-color: #E74C3C ;
+    padding: 6px 20px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+ }
+
+ .productImage{
+    width: 200px;
+    height: 200px;
+}
+ 

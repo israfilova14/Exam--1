@@ -1,0 +1,171 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "price": 80.3,
+      "description": "Fujifilm X100T 16 MP Digital Camera (Silver)",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_1.png",
+      "category": "women's clothing",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "2",
+      "price": 22.3,
+      "description": "Samsung CF591 Series Curved 27-Inch FHD Monitor",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_2.png",
+      "category": "women's clothing",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "3",
+      "price": 55.99,
+      "description": "Blue Yeti USB Microphone Blackout Edition",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_3.png",
+      "category": "women's clothing",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": "4",
+      "price": 15.99,
+      "description": "DYMO LabelWriter 450 Turbo Thermal Label Printer",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_4.png",
+      "category": "accessories",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "5",
+      "price": 695,
+      "description": "Pryma Headphones, Rose Gold & Grey",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_5.png",
+      "category": "women's clothing",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": "6",
+      "price": 168,
+      "description": "Fujifilm X100T 16 MP Digital Camera (Silver)",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_6.png",
+      "category": "accessories",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": "7",
+      "price": 9.99,
+      "description": "Samsung CF591 Series Curved 27-Inch FHD Monitor",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_7.png",
+      "category": "women's clothing",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": "8",
+      "price": 10.99,
+      "description": "Blue Yeti USB Microphone Blackout Edition",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_8.png",
+      "category": "accessories",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": "9",
+      "price": 64,
+      "description": "DYMO LabelWriter 450 Turbo Thermal Label Printer",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_9.png",
+      "category": "men's clothing",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": "10",
+      "price": 109,
+      "description": "Pryma Headphones, Rose Gold & Grey",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_10.png",
+      "category": "men's clothing",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    }
+  ],
+  "bestsellers":[
+    {
+      "id": "1",
+      "price": 80.3,
+      "description": "Fujifilm X100T 16 MP Digital Camera (Silver)",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_1.png",
+      "category": "women's clothing",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "2",
+      "price": 22.3,
+      "description": "Samsung CF591 Series Curved 27-Inch FHD Monitor",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_2.png",
+      "category": "women's clothing",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "3",
+      "price": 55.99,
+      "description": "Blue Yeti USB Microphone Blackout Edition",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_3.png",
+      "category": "women's clothing",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": "4",
+      "price": 15.99,
+      "description": "DYMO LabelWriter 450 Turbo Thermal Label Printer",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_4.png",
+      "category": "accessories",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "5",
+      "price": 695,
+      "description": "Pryma Headphones, Rose Gold & Grey",
+      "image": "https://preview.colorlib.com/theme/coloshop/images/product_5.png",
+      "category": "women's clothing",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    }
+  ]
+}

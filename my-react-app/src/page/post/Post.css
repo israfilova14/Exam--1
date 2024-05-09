@@ -1,0 +1,22 @@
+.productPost{
+    text-align: center;
+    width: 800px;
+    margin-left: 320px;
+    color: #F08080;
+    padding: 30px;
+}
+
+.inputBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    input{
+        margin-bottom: 15px;
+    }
+}
+
+.addBox{
+    padding: 20px;
+}
