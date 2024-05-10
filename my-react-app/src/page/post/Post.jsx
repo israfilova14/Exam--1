@@ -14,14 +14,14 @@ const Post = () => {
   const [image , setImage] = useState('')
 
   const getData = async()=>{
-    const response = await axios.get("http://localhost:5000/products")
+    const response = await axios.get("http://localhost:3000/products")
     console.log(response?.data);
     setProducts(response?.data)
   }
   const addData = async(e) =>{
     e.preventDefault()
     try{
-      const response = await axios.post("http://localhost:5000/products",{
+      const response = await axios.post("http://localhost:3000/products",{
         decription: decription,
         price: price,
         category: category,
