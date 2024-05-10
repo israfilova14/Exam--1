@@ -21,12 +21,7 @@ const Home = () => {
    e.preventDefault()
      navigate("/wishlist")
   }
-
-  const handlesortAtoZ =() =>{
-    setProducts([...products.sort((a,b) => a.title.localeCompare(b.title))])
-}
-
-    
+  
   useEffect(() =>{
    getProducts()
   },[])
@@ -55,31 +50,7 @@ const Home = () => {
            </div>
         </div>
       </section>
-      <section>
-      <div className='sortBox'>
-        <div className='buttonsBox'>
-            <p className='sort-message'>New Arrivals</p>
-             <div className='sortBox'>
-                 <div className='box-1'>
-                    <button className='btn-1' onClick={handlesortAtoZ}> A to Z by name</button>
-                    <button className='btn-2' > Z to A by name</button>
-                 </div>
-                  <div className='box-2'>
-                    <button className='btn-3' >A to Z by price</button>
-                    <button className='btn-4' >Z to A by price</button>
-                  </div>
-                   <div className='box-3'>
-                    <button className='btn-5' >A to Z by rating</button>
-                    <button className='btn-6' >Z to A by rating</button>
-                   </div>
-                    <div className='box-4'>
-                    <button className='btn-7' >A to Z by count</button>
-                    <button className='btn-8' >Z to A by count</button>
-                    </div>
-             </div>
-        </div>
-    </div>
-      </section>
+     
       <section>
         <div className='products-box'>
             
