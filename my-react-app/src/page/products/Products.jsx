@@ -48,7 +48,7 @@ const Products = () => {
             <p className='sort-message'>New Arrivals</p>
              <div className='sortBox'>
                  <div className='box-1'>
-                    <button className='btn-1' onClick={handlesortAtoZ}> A to Z by name</button>
+                    <button className='btn-1'> A to Z by name</button>
                     <button className='btn-2' > Z to A by name</button>
                  </div>
                   <div className='box-2'>
