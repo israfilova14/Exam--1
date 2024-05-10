@@ -21,7 +21,7 @@ const Products = () => {
   const deleteData = async(id) =>{
    
     try{
-      await axios.delete(`http://localhost:5000/products/${id}`)
+      await axios.delete(`http://localhost:3000/products/${id}`)
       .then(response =>{
         console.log(response);
         if(response.status ===200){

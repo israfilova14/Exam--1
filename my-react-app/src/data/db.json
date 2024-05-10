@@ -87,28 +87,6 @@
         "rate": 1.9,
         "count": 100
       }
-    },
-    {
-      "id": "9",
-      "price": 64,
-      "description": "DYMO LabelWriter 450 Turbo Thermal Label Printer",
-      "image": "https://preview.colorlib.com/theme/coloshop/images/product_9.png",
-      "category": "men's clothing",
-      "rating": {
-        "rate": 3.3,
-        "count": 203
-      }
-    },
-    {
-      "id": "10",
-      "price": 109,
-      "description": "Pryma Headphones, Rose Gold & Grey",
-      "image": "https://preview.colorlib.com/theme/coloshop/images/product_10.png",
-      "category": "men's clothing",
-      "rating": {
-        "rate": 2.9,
-        "count": 470
-      }
     }
   ],
   "bestsellers":[
@@ -154,17 +132,6 @@
       "rating": {
         "rate": 2.1,
         "count": 430
-      }
-    },
-    {
-      "id": "5",
-      "price": 695,
-      "description": "Pryma Headphones, Rose Gold & Grey",
-      "image": "https://preview.colorlib.com/theme/coloshop/images/product_5.png",
-      "category": "women's clothing",
-      "rating": {
-        "rate": 4.6,
-        "count": 400
       }
     }
   ]
